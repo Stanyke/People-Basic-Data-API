@@ -22,3 +22,5 @@ There are two apis available and are being detailed below.
         - The *lt* means less than
         - The *eqc* means include
         - The *eq* means equal to
+        - The api can work without the acronym eq, eqc, gt but for the timestamp, it choses greater than
+        - Example {baseurl}/api/v1/user/filter/123456?name=ow&age=21&timestamp=1587614025
